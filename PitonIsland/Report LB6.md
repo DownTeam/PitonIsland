@@ -53,7 +53,7 @@
 #### До:
 ![](https://github.com/DownTeam/PitonIsland/blob/master/PitonIsland/Pictures/IslandDo.png)
 #### После:
-![](https://github.com/DownTeam/PitonIsland/blob/master/PitonIsland/Pictures/IslandDo.png)
+![](https://github.com/DownTeam/PitonIsland/blob/master/PitonIsland/Pictures/Island.png)
 
 <a name="res3"/>
 
